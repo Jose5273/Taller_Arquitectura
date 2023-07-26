@@ -1,5 +1,7 @@
 # Arquitectura de Ordenadores
 
+Grupo 3-3-3
+
 This simple project was built with some tools such us:
 * Html 5.
 * Bootstrap 5.
